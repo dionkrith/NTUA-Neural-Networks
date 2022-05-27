@@ -1,6 +1,6 @@
 # NTUA-Neural-Networks
 
-- In this course we had 3 different Labs. For each Lab we have:
+In this course we had 3 different Labs. For each Lab we have:
 
 Lab1: Supervised Learning Algorithms  
 
